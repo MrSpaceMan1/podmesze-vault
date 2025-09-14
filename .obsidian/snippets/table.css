@@ -1,0 +1,7 @@
+.cm-line:has(+ .cm-embed-block.cm-table-widget) br {
+  display: none;
+}
+
+.el-table table {
+  margin: 0;
+}
