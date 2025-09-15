@@ -16,4 +16,14 @@ Słaba widoczność w promieniu 2 m od celu przez następną rundę
 (utrudnione [[Umiejętności#Dostrzeganie|Dostrzeganie]], [[Umiejętności#Rzucanie|Rzucanie]] itd.). Bez obrażeń.
 
 # Szczypcożyce
-+1 Potencjału do [[Umiejętności#Ziołolecznictwa|Ziołolecznictwa]]
++1 Potencjału do [[Umiejętności#Ziołolecznictwa|Ziołolecznictwa]].
+
+# Głaskodrapaczka
++1 Potencjału do [[Umiejętności#Kontakt ze zwierzętami|Kontaktu ze zwierzętami]].
+
+# Lupokular
++1 Potencjału do [[Umiejętności#Dostrzegania|Dostrzegania]].
+
+# Torba różności
+Zawiera wiele drobiazgów, np.: wstążka, igła z nicią, haczyk, klamerka, orzeszek,
+guzik, kulka, sznurek, szkiełko, torebka herbaty, łyżeczka, nożyczki.

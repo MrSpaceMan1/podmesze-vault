@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stany.md",
+                "file": "Przedmioty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stany"
+              "title": "Przedmioty"
+            }
+          },
+          {
+            "id": "5801d1e0910dfa76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bestiariusz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bestiariusz"
             }
           }
         ]
@@ -172,16 +186,18 @@
   },
   "active": "19ca552081ba3b8a",
   "lastOpenFiles": [
-    "Nowy Text Document.txt",
+    "Profesje.md",
+    "Bestiariusz.md",
+    "Źródła/Obrazy/szysz.png",
+    "Przedmioty.md",
+    "Umiejętności.md",
+    "Stany.md",
+    "Ziołolecznictwo Warzenie mikstur/Zioła.md",
     "Ziołolecznictwo Warzenie mikstur/Bazy Mikstur.md",
+    "Nowy Text Document.txt",
     "Scenariusze/Drzeworytarz/Start.md",
     "Zasady.md",
-    "Umiejętności.md",
-    "Ziołolecznictwo Warzenie mikstur/Zioła.md",
     "Międzyczas.md",
-    "Profesje.md",
-    "Przedmioty.md",
-    "Stany.md",
     "szablony-obsidian/k5.md",
     "szablony-obsidian/k4.md",
     "szablony-obsidian/k6.md",
