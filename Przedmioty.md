@@ -25,5 +25,4 @@ Słaba widoczność w promieniu 2 m od celu przez następną rundę
 +1 Potencjału do [[Umiejętności#Dostrzegania|Dostrzegania]].
 
 # Torba różności
-Zawiera wiele drobiazgów, np.: wstążka, igła z nicią, haczyk, klamerka, orzeszek,
-guzik, kulka, sznurek, szkiełko, torebka herbaty, łyżeczka, nożyczki.
+Zawiera wiele drobiazgów, np.: wstążka, igła z nicią, haczyk, klamerka, orzeszek, guzik, kulka, sznurek, szkiełko, torebka herbaty, łyżeczka, nożyczki.

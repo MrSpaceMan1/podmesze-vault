@@ -7,6 +7,7 @@ współplemieńcom podczas podróży przez niebezpieczne korytarze.
 
 **Umiejętności wiodące**: [[Umiejętności#Atak wręcz|Atak wręcz]], [[Umiejętności#Parowanie ciosów|Parowanie ciosów]]
 **Przedmioty startowe**: [[Przedmioty#Chrabąszczowa włócznia|Charbąszczowa włócznia]], [[Przedmioty#Chrabąszczowa tarcza|Charbąszczowa tarcza]]
+![[Wojownik-1.jpg|450]]
 
 # Miotacz
 #profesja-bitewna 
@@ -38,6 +39,7 @@ pierzoperzom i słoniowcom.
 
 **Umiejętności wiodące**: [[Umiejętności#Kontakt ze zwierzętami|Kontakt ze zwierzętami]], [[Umiejętności#Tropienie|Tropienie]]
 **Przedmioty startowe**: [[Przedmioty#Głaskodrapaczka|Głaskodrapaczka]], [[Bestiariusz#Szysz|Szysz]]
+![[letib-opiekun-zwierzat.png|450]]
 
 # Zbieracz
 #profesja-tunelowa 
@@ -48,3 +50,5 @@ funkcjonowania osady - każdego dnia przynoszą całe worki ziół, pożywienia 
 przedmiotów.
 
 **Umiejętności wiodące**: [[Umiejętności#Dostrzeganie|Dostrzeganie]], [[Umiejętności#Zmysł kaetti|Zmysł kaetti]]
+**Przedmioty startowe**: [[Przedmioty#Torba różności|Torba różności]], [[Przedmioty#Lupokular|Lupokular]]
+![[letib-zbieracz.jpg|450]]
